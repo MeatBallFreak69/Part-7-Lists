@@ -19,7 +19,7 @@ namespace Lists
             names[0] = "Arthur";
             Console.WriteLine(names[0]);
             Console.WriteLine(names[2]);
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
